@@ -14,14 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a hugh fan of Game of Thrones/
 
+<img width="200" height = "400" alt="🦑" src="KakaoTalk_20220517_175932666_01.png
+"/>
+/Users/hayeong/Desktop/KakaoTalk_20220517_1759
+![KakaoTalk_20220517_175932666_01](https://user-images.githubusercontent.com/96387509/168774935-abe4b33d-cfc8-42cc-a989-4bfff124c209.png)
+
+
+
+
 I can also use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 -->
-<img align="right" width="45%" alt="🦑" src="user-images.githubusercontent.com/96387509/168773696-019a53e5-e135-41bf-a4cf-10d0d89bfd47.png
-">
+
+
 ## Info
 - 🔭 I’m currently working on becoming `a backend developer✨`
 - 🌱 I’m currently learning `Spring boot` mainly
