@@ -32,7 +32,7 @@ I can also use
 
 ## Info
 - 🔭 I’m currently working on becoming `a backend developer✨`
-- 🌱 I’m currently learning `Spring boot` mainly
+- 🌱 I’m currently learning `Spring` mainly
 - 📫 How to reach me: lhy1031hy@gmail.com
 - ⚡ Fun fact: I'm a hugh fan of Game of Thrones
 
